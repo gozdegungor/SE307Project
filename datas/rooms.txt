@@ -1,0 +1,6 @@
+1_false_6_150_1_king
+2_false_4_100_1_suit
+3_false_2_50_1_regular
+4_false_5_350_2_king
+5_false_3_200_2_suit
+6_false_1_150_2_regular
